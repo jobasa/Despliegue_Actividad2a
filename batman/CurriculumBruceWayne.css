@@ -1,0 +1,74 @@
+/*section {
+height: 120px;
+width: 350px;
+background: yellow;
+margin: 20px 10px;
+padding: 20px;
+border: 5px solid #000;
+display: inline-block;
+float: left;
+
+}*/
+#DatosPersonales {
+  height: 400px;
+  width: 350px;
+  background: blue;
+  margin: 20px 10px;
+  padding: 20px;
+  border: 5px solid #000;
+  display: inline-block;
+  float: left;
+}
+
+#FormacionAcademica {
+  height: 400px;
+  width: 350px;
+  background: yellow;
+  margin: 20px 10px;
+  padding: 20px;
+  border: 5px solid #000;
+  display: inline-block;
+  float: left;
+}
+
+#ExperienciaLaboral {
+  height: 400px;
+  width: 350px;
+  background: grey;
+  margin: 20px 10px;
+  padding: 20px;
+  border: 5px solid #000;
+  display: inline-block;
+  float: left;
+}
+
+
+ul#caja1 > li {
+  color: blue;
+}
+
+ul#caja2 > li {
+  color: blue;
+}
+
+strong {
+  color: black;
+}
+
+article img {
+  width: 250px;
+  height: auto;
+
+}
+
+img.batman {
+  transform: rotate(180deg);
+}
+
+img.batman_accion {
+  transform: skew(.312rad);
+}
+
+img.logo {
+  transform: skew(.312rad);
+}
